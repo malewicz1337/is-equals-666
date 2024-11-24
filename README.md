@@ -12,7 +12,7 @@ A simple utility function to check if a number is equal to `666`. Lightweight, e
 Install via npm:
 
 ```bash
-npm install is-equals-666
+npm install @malewicz1337/is-equals-666@1.0.0
 ```
 
 ## Usage
