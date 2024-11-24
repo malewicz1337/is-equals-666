@@ -9,11 +9,21 @@
     "type": "git",
     "url": "git+https://github.com/malewicz1337/is-equals-666.git"
   },
+  "keywords": [
+    "equals",
+    "666",
+    "utility",
+    "javascript",
+    "npm"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  },
   "author": "malewicz",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/malewicz1337/is-equals-666/issues"
   },
   "homepage": "https://github.com/malewicz1337/is-equals-666#readme",
-  "description": ""
+  "description": "A simple utility function to check if a number is equal to `666`. Lightweight, efficient, and easy to use."
 }
