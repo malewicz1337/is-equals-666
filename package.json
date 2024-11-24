@@ -1,0 +1,19 @@
+{
+  "name": "is-equals-666",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malewicz1337/is-equals-666.git"
+  },
+  "author": "malewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malewicz1337/is-equals-666/issues"
+  },
+  "homepage": "https://github.com/malewicz1337/is-equals-666#readme",
+  "description": ""
+}
