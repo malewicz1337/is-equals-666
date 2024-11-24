@@ -1,6 +1,6 @@
 # is-equals-666
 
-[![npm version](https://img.shields.io/npm/v/is-equals-666.svg)](https://www.npmjs.com/package/is-equals-666)
+[![npm version](https://img.shields.io/npm/v/@malewicz1337/is-equals-666.svg)](https://www.npmjs.com/package/@malewicz1337/is-equals-666)
 [![license](https://img.shields.io/npm/l/is-equals-666.svg)](https://github.com/malewicz1337/is-equals-666/blob/main/LICENSE)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/malewicz1337/is-equals-666/ci.yml?branch=main)](https://github.com/malewicz1337/is-equals-666/actions)
 [![GitHub issues](https://img.shields.io/github/issues/malewicz1337/is-equals-666.svg)](https://github.com/malewicz1337/is-equals-666/issues)

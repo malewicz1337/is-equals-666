@@ -9,9 +9,6 @@
     "type": "git",
     "url": "git+https://github.com/malewicz1337/is-equals-666.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "keywords": [
     "equals",
     "666",
